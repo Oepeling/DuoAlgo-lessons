@@ -63,6 +63,8 @@ Dar codul ne este încă străin. Ce înseamnă lucrurile acelea? Ei bine, vom e
 
 Fără prima linie, comanda **cout** de pe linia 7 nu ar funcționa, ea făcând parte din biblioteca **iostream**. Cout este un stream (curent) **standard** de ieșire, adică comunică cu terminalul, deci ce afișează, afișează pe el. Sintaxa (felul de scriere) specifică lui este ***cout<<***, mesajul **Hello world!** se scrie între ghilimele (ca exercițiu, puteți să-l modificați în orice alt mesaj, dar nu uitați, dacă aveți terminalul deschis, trebuie închis și redeschis înainte să apară noul mesaj), iar **endl** (end-line) reprezintă caracterul **Enter**, care poate fi înlocuit cu **'\n'** (și recomandăm înlocuirea, din motive nesemnificative pe care le veți afla mai târziu).
 
+Fratele lui **cout** este **cin**, care în loc să facă afișarea standard, face **citirea** standard, numită și **"de la tastatură"**, pentru că numerele sau literele băgate în terminal sunt scrise prin intermediul tastaturii, odată ce terminalul devine deschis. Utilizarea lui **cin** va fi prezentată într-o lecție viitoare. Ca să țineți minte mai ușor, litera ***c*** vine de la limbajul de programare C++, iar restul cuvântului este **in** sau **out**, adică **intrare** sau **ieșire**.
+
 **Funcția** ***main*** reprezintă corpul programului, la care se pot adăuga funcții auxiliare (ca lui [Mr. Potato Head](https://disney.fandom.com/wiki/Mr._Potato_Head) din Toy Story). Liniile **return 0;** și **using namespace std;** nu sunt de interes momentan.
 
 Singurul cuvânt rămas neexplicat este **int**, care va apărea în lecția următoare, despre **tipuri de date**.
