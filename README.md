@@ -6,3 +6,5 @@
 * https://www.algopedia.ro/wiki/index.php/Main_Page
 * https://codeforces.com/blog/tourist
 * https://codeforces.com/blog/AlexLuchianov
+
+* Intersecție de matroizi: https://codeforces.com/blog/entry/69287
