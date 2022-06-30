@@ -20,7 +20,7 @@ https://mzhang2021.github.io/cp-blog/berlekamp-massey/
 
 http://crypto.stanford.edu/~mironov/cs359/massey.pdf
 
-# Berlekamp-Massey - algorimtul
+# Berlekamp-Massey - algoritmul
 
 Știind că avem o recurență liniară de lungime maxim K, algoritmul obține una de lungime minimă având la dispoziție 2 * K termeni.
 
