@@ -25,7 +25,7 @@ Ca sa intelegem cum se cuvine un anume lucru, trebuie intai sa intelegem la ce n
 
 Hai sa consideram harta Metrorex din Bucuresti:
 
-![Posibil outdated, intentia conteaza](https://harta-metrou.com/im/harta-metrorex.png)
+![Posibil outdated, intentia conteaza](https://harta-metrou.com/design/harta-metrou.png)
 
 
 Presupunem ca vrem sa luam metroul de la **Aviatorilor** pana la **Dristor**. 
